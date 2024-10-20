@@ -106,8 +106,6 @@ if __name__ == "__main__":
             retry = input("Başka bir dizin taramak ister misiniz? (E/H): ")
             if retry.lower() != 'e':
                 break
-            if retry.lower() != 'h':
-                os.system("start.bat")
     
         except ValueError as e:
             print(e)
