@@ -1,0 +1,10 @@
+Pillow
+opencv-python
+requests
+paramiko
+tqdm
+colorama
+scapy
+scapy_http
+python-nmap
+
